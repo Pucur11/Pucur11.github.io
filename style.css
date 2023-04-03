@@ -213,7 +213,7 @@ section .title::after{
     background: none;
 }
 
-/* about section styling */
+/* about section stylng */
 .about .title::after{
     content: "who i am";
 }
