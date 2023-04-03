@@ -48,7 +48,7 @@ $(document).ready(function(){
         loop: true
     });
 
-    // owl carousel script
+    // owl carousell script
     $('.carousel').owlCarousel({
         margin: 20,
         loop: true,

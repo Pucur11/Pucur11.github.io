@@ -213,34 +213,6 @@ section .title::after{
     background: none;
 }
 
-/* typing styling */
-/* .typing::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 2px;
-    height: 100%;
-    background: #e71d1d;
-    animation: cursorBlink 0.8s steps(3) infinite;
-}
-@keyframes cursorBlink {
-
-    0%,
-    75% {
-        opacity: 1;
-    }
-
-    76%,
-    100% {
-        opacity: 0;
-    }
-}
-.typing{
-    position: relative;
-    -webkit-box-reflect: below 1px linear-gradient(transparent, #3333);
-} */
-
 /* about section styling */
 .about .title::after{
     content: "who i am";
